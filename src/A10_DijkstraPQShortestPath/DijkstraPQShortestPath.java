@@ -10,9 +10,7 @@ public class DijkstraPQShortestPath extends FindWay {
 
 	/**
 	 * Startentfernung initialisieren
-	 * 
-	 * @param from
-	 *            Startknoten
+	 *
 	 */
 	protected void initPathSearch() {
 		int numv = graph.numVertices();
